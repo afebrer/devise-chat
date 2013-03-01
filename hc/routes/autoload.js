@@ -1,4 +1,3 @@
-
 var version = {};
 version.v1 = {
 		page : require('./v1/_page.js'),
